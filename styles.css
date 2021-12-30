@@ -73,6 +73,9 @@ body {
   background-color: violet;
 }
 
+#black {
+  background-color: black;
+}
 /* Other Buttons */
 #otherControls{
     display: flex;
